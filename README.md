@@ -1,2 +1,1 @@
-# Crash-Course-Python
-ALL My Python Practices are Stored Here
+এখানে আমি বিগিনার হিসাবে পাইথনের যেই বিষয় গুলা প্রাক্টিস করেছি সেগুলা এইখানে একসাথে করা আছে
