@@ -6,14 +6,14 @@ To combine both text and a variable, Python uses the + character:
 """
 #Example
 
-x = "Joss"
-print(" Python is " + x)
+x = "Tajul Islam"
+print(" I am " + x)
 
 #You can also use the + character to add a variable to another variable:
 
 #Example
-x = "Python is "
-y = "awesome"
+x = "I am "
+y = "Tajul Islam"
 z =  x + y
 print(z)
 
@@ -28,7 +28,7 @@ print(x + y)
 #If you try to combine a string and a number, Python will give you an error:
 
 #Example
-x = 5
-y = "John"
+x = 1
+y = "one"
 print(x + y)
 """
