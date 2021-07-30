@@ -41,3 +41,5 @@ print(a.replace("T", "P"))
 
 a = "Hello, World!"
 print(a.split(",")) # returns ['Hello', ' World!']
+
+wow.js
